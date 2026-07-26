@@ -1,4 +1,4 @@
-# Task 3 🏦 Bank Account Management System
+# 🏦 Bank Account Management System
 
 A Java-based **Bank Account Management System** built using **Core Java** and **Object-Oriented Programming (OOP)** concepts. This console application allows users to perform common banking operations such as depositing money, withdrawing money, checking balances, and viewing account details.
 
